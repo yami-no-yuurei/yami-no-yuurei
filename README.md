@@ -31,7 +31,7 @@ I also regularly write technical articles at
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 - Linux-first environment (Debian, Arch, Rocky/Alma, Kali)
-- Windows desktop and Windows Server (long-term usage since Win98)
+- Windows desktop and Windows Server
 
 ---
 
