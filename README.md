@@ -12,9 +12,11 @@
 I'm an IT generalist with a strong focus on Linux systems, security fundamentals, and infrastructure.  
 My work spans systems administration, networking, automation, and full-stack / DevSecOps workflows.
 
-I maintain public-facing infrastructure where both **OS hardening** and **secure code deployment** matter, and I use GitHub primarily to publish **guides, documentation, and technical write-ups** tied to real projects.
+I maintain public-facing infrastructure where both **OS hardening** and **secure code deployment** matter.  
+GitHub is used primarily to publish **guides, documentation, and technical write-ups** tied to real projects, with supporting code where appropriate.
 
-I also regularly write technical articles at:  <a href="https://kuroikitsune.com/" target="_blank">**KuroiKitsune.com**</a>
+I also regularly write technical articles at  
+<a href="https://kuroikitsune.com/" target="_blank"><strong>KuroiKitsune.com</strong></a>
 
 ---
 
@@ -45,6 +47,21 @@ I also regularly write technical articles at:  <a href="https://kuroikitsune.com
 
 ---
 
+## Programming & Development Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+- Full-stack fundamentals (frontend and backend)
+- Server-side development and scripting
+- Systems-oriented and compiled language exposure (C++, Java)
+
+---
+
 ## Networking
 
 ![Cisco](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
@@ -52,7 +69,7 @@ I also regularly write technical articles at:  <a href="https://kuroikitsune.com
 
 - VLANs, subnetting, routing, switching (L2/L3 concepts)
 - Firewalling and network segmentation
-- VPNs (WireGuard / OpenVPN / Tailscale)
+- VPNs (WireGuard, OpenVPN, Tailscale)
 - Actively preparing for **Network+**
 - Studying **Cisco IOS**
 
@@ -81,12 +98,12 @@ I also regularly write technical articles at:  <a href="https://kuroikitsune.com
 ![TestOut Security Pro](https://img.shields.io/badge/TestOut-Security%20Pro-2E2E2E?style=flat-square)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
 
-
 - CompTIA **Security+** certified
+- TestOut **Security Pro** certified
 - Linux and Windows hardening
 - Secure configuration of public-facing servers
 - Active on TryHackMe
-- Practical focus on real-world defensive security
+- Practical, defensive security focus
 
 ---
 
@@ -118,7 +135,6 @@ This GitHub is used primarily for:
 - Infrastructure documentation
 - Project logs and technical write-ups
 - Select tooling and automation code
-
 
 ---
 
