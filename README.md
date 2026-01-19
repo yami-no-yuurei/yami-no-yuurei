@@ -9,7 +9,7 @@
 
 ## Overview
 
-I am an IT generalist with a strong focus on Linux systems, security fundamentals, and infrastructure.  
+I'm an IT generalist with a strong focus on Linux systems, security fundamentals, and infrastructure.  
 My work spans systems administration, networking, automation, and full-stack / DevSecOps workflows.
 
 I maintain public-facing infrastructure where both **OS hardening** and **secure code deployment** matter, and I use GitHub primarily to publish **guides, documentation, and technical write-ups** tied to real projects.
